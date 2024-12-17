@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-4.0 Gurendra</h2>
+      <h2>NETFLIX SIGN IN V-4.0 Gurendra Kumar Ratrey</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
